@@ -1,4 +1,4 @@
-# Brease_cancer_classification
+# Breast_cancer_classification
 
 The primary goal of this project is to explore, compare, and implement different machine learning classification algorithms to build an effective classification predictive model to distinguish benign and malignnat using publicly available Wisconsin diagnostic breast cancer dataset.
 
